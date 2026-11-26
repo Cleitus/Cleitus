@@ -1,16 +1,23 @@
-## Hi there 👋
+# Cleiton Delfino
 
-<!--
-**Cleitus/Cleitus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Técnico em Segurança do Trabalho · Automação e IA aplicadas a SST e gestão ambiental**
 
-Here are some ideas to get you started:
+Construo sistemas que transformam conformidade e gestão de risco em processos automatizados e auditáveis: captação e qualificação de leads, sites institucionais e geoprocessamento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## O que construo
+
+Automação de fluxos com n8n e IA (Claude) · Sites institucionais para empresas de consultoria e serviços · Geoprocessamento aplicado à gestão ambiental
+
+## Stack
+
+n8n · Claude · HTML/CSS/JS · Geoprocessamento
+
+## Projetos públicos
+
+Em construção: templates de workflow n8n e scripts de geoprocessamento serão publicados neste perfil.
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/cleitondelfino1/)
+
+*English: Occupational safety technician building AI and workflow automation for safety and environmental compliance.*
