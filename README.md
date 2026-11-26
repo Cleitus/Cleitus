@@ -1,23 +1,23 @@
 # Cleiton Delfino
 
-**Técnico em Segurança do Trabalho · Automação e IA aplicadas a SST e gestão ambiental**
+**Desenvolvedor Fullstack · Salesforce · Automação e IA · Segurança do Trabalho e gestão ambiental**
 
-Construo sistemas que transformam conformidade e gestão de risco em processos automatizados e auditáveis: captação e qualificação de leads, sites institucionais e geoprocessamento.
+Desenvolvo aplicações web, integrações e automações, levando para a tecnologia a visão de quem trabalha com gestão de risco e conformidade: sistemas confiáveis, auditáveis e que resolvem um problema real de negócio.
 
 ## O que construo
 
-Automação de fluxos com n8n e IA (Claude) · Sites institucionais para empresas de consultoria e serviços · Geoprocessamento aplicado à gestão ambiental
+Aplicações web fullstack · Soluções e integrações em Salesforce · Automação de fluxos com n8n e IA (Claude) · Sites institucionais · Geoprocessamento aplicado à gestão ambiental
 
 ## Stack
 
-n8n · Claude · HTML/CSS/JS · Geoprocessamento
+Salesforce · n8n · Claude · HTML/CSS/JS · Geoprocessamento
 
 ## Projetos públicos
 
-Em construção: templates de workflow n8n e scripts de geoprocessamento serão publicados neste perfil.
+Em construção: exemplos de aplicações, integrações e workflows serão publicados neste perfil.
 
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/cleitondelfino1/)
 
-*English: Occupational safety technician building AI and workflow automation for safety and environmental compliance.*
+*English: Fullstack developer (Salesforce, workflow automation and AI) with a background in occupational safety and environmental compliance.*
